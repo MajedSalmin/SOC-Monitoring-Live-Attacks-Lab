@@ -8,7 +8,7 @@ This lab consists basic home SOC in Azure from scratch. Using a free Azure subsc
 <h2>High level overview of the lab:</h2>
 <p align="center">
 <br/>
-<img src="https://imgur.com/a/deIjcEz" height="80%" width="80%" alt="Overview"/>
+<img src="https://i.imgur.com/uZpZCsk.png" height="80%" width="80%" alt="Overview"/>
 <br />
 
 
