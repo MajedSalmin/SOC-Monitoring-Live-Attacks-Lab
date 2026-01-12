@@ -68,4 +68,55 @@ Create a Virtual Network: <br/>
 <br />
 <br />
 
+<p align="center">
+Create a Virtual Machine: <br/>
+<img src="https://i.imgur.com/KueSkZ9.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/qUXdyVR.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/UIf7aDX.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/pQ12Tf7.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/kRMLp86.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/ZCO3bdu.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/DlRZzUP.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/5VRUnvV.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/x5jmAaN.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/gNQwxMP.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/dc6cW7N.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/xuVLzqe.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/vhdihZD.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/hTQ9vOU.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/sAbTxcd.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/gTWI2pe.png" height="80%" width="80%" />
+<br />
+<br />
+
 
