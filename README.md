@@ -24,3 +24,16 @@ This lab consists basic home SOC in Azure from scratch. Using a free Azure subsc
 - <b>Microsoft Azure</b> (21H2)
 - <b>Remote Desktop Connection </b>
 
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Create a Resource Group: <br/>
+<img src="https://i.imgur.com/35vMiXD.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/d8wlw1S.png" height="80%" width="80%" />
+<br />
+<br />
+
+
+
