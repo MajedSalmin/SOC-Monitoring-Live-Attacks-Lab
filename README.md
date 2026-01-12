@@ -34,6 +34,12 @@ Create a Resource Group: <br/>
 <img src="https://i.imgur.com/d8wlw1S.png" height="80%" width="80%" />
 <br />
 <br />
+<img src="https://i.imgur.com/48S3gIW.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/dbLQjnj.png" height="80%" width="80%" />
+<br />
+<br />
 
 
 
