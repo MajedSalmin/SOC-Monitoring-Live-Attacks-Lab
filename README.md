@@ -41,5 +41,31 @@ Create a Resource Group: <br/>
 <br />
 <br />
 
+<p align="center">
+Create a Virtual Network: <br/>
+<img src="https://i.imgur.com/Fuo5LZt.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/Zcvhx1T.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/3XbiyhO.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/oTSpjMy.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/UCyzXlg.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/hXNhIBf.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/ijyh0x0.png" height="80%" width="80%" />
+<br />
+<br />
+<img src="https://i.imgur.com/TM2Lpgi.png" height="80%" width="80%" />
+<br />
+<br />
 
 
